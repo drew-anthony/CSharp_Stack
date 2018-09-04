@@ -1,0 +1,10 @@
+C:\Users\Drew\Csharp_Stack\FundamentalsI\bin\Debug\netcoreapp2.0\FundamentalsI.deps.json
+C:\Users\Drew\Csharp_Stack\FundamentalsI\bin\Debug\netcoreapp2.0\FundamentalsI.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\FundamentalsI\bin\Debug\netcoreapp2.0\FundamentalsI.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\FundamentalsI\bin\Debug\netcoreapp2.0\FundamentalsI.dll
+C:\Users\Drew\Csharp_Stack\FundamentalsI\bin\Debug\netcoreapp2.0\FundamentalsI.pdb
+C:\Users\Drew\Csharp_Stack\FundamentalsI\obj\Debug\netcoreapp2.0\FundamentalsI.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\FundamentalsI\obj\Debug\netcoreapp2.0\FundamentalsI.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\FundamentalsI\obj\Debug\netcoreapp2.0\FundamentalsI.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\FundamentalsI\obj\Debug\netcoreapp2.0\FundamentalsI.dll
+C:\Users\Drew\Csharp_Stack\FundamentalsI\obj\Debug\netcoreapp2.0\FundamentalsI.pdb
