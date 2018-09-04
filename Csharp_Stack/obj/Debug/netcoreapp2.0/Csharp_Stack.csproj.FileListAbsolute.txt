@@ -1,0 +1,10 @@
+C:\Users\Drew\Csharp_Stack\bin\Debug\netcoreapp2.0\Csharp_Stack.deps.json
+C:\Users\Drew\Csharp_Stack\bin\Debug\netcoreapp2.0\Csharp_Stack.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\bin\Debug\netcoreapp2.0\Csharp_Stack.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\bin\Debug\netcoreapp2.0\Csharp_Stack.dll
+C:\Users\Drew\Csharp_Stack\bin\Debug\netcoreapp2.0\Csharp_Stack.pdb
+C:\Users\Drew\Csharp_Stack\obj\Debug\netcoreapp2.0\Csharp_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\obj\Debug\netcoreapp2.0\Csharp_Stack.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\obj\Debug\netcoreapp2.0\Csharp_Stack.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\obj\Debug\netcoreapp2.0\Csharp_Stack.dll
+C:\Users\Drew\Csharp_Stack\obj\Debug\netcoreapp2.0\Csharp_Stack.pdb
