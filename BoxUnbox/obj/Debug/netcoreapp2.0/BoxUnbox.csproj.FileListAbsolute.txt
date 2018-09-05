@@ -1,0 +1,11 @@
+C:\Users\Drew\Csharp_Stack\BoxUnbox\obj\Debug\netcoreapp2.0\BoxUnbox.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\BoxUnbox\obj\Debug\netcoreapp2.0\BoxUnbox.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\BoxUnbox\obj\Debug\netcoreapp2.0\BoxUnbox.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\BoxUnbox\obj\Debug\netcoreapp2.0\BoxUnbox.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Csharp_Stack\BoxUnbox\bin\Debug\netcoreapp2.0\BoxUnbox.deps.json
+C:\Users\Drew\Csharp_Stack\BoxUnbox\bin\Debug\netcoreapp2.0\BoxUnbox.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\BoxUnbox\bin\Debug\netcoreapp2.0\BoxUnbox.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\BoxUnbox\bin\Debug\netcoreapp2.0\BoxUnbox.dll
+C:\Users\Drew\Csharp_Stack\BoxUnbox\bin\Debug\netcoreapp2.0\BoxUnbox.pdb
+C:\Users\Drew\Csharp_Stack\BoxUnbox\obj\Debug\netcoreapp2.0\BoxUnbox.dll
+C:\Users\Drew\Csharp_Stack\BoxUnbox\obj\Debug\netcoreapp2.0\BoxUnbox.pdb
