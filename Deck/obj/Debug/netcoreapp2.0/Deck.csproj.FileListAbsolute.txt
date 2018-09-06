@@ -1,0 +1,11 @@
+/Users/LilyBeth/Desktop/C#/Deck/bin/Debug/netcoreapp2.0/Deck.deps.json
+/Users/LilyBeth/Desktop/C#/Deck/bin/Debug/netcoreapp2.0/Deck.runtimeconfig.json
+/Users/LilyBeth/Desktop/C#/Deck/bin/Debug/netcoreapp2.0/Deck.runtimeconfig.dev.json
+/Users/LilyBeth/Desktop/C#/Deck/bin/Debug/netcoreapp2.0/Deck.dll
+/Users/LilyBeth/Desktop/C#/Deck/bin/Debug/netcoreapp2.0/Deck.pdb
+/Users/LilyBeth/Desktop/C#/Deck/obj/Debug/netcoreapp2.0/Deck.csprojResolveAssemblyReference.cache
+/Users/LilyBeth/Desktop/C#/Deck/obj/Debug/netcoreapp2.0/Deck.csproj.CoreCompileInputs.cache
+/Users/LilyBeth/Desktop/C#/Deck/obj/Debug/netcoreapp2.0/Deck.AssemblyInfoInputs.cache
+/Users/LilyBeth/Desktop/C#/Deck/obj/Debug/netcoreapp2.0/Deck.AssemblyInfo.cs
+/Users/LilyBeth/Desktop/C#/Deck/obj/Debug/netcoreapp2.0/Deck.dll
+/Users/LilyBeth/Desktop/C#/Deck/obj/Debug/netcoreapp2.0/Deck.pdb
