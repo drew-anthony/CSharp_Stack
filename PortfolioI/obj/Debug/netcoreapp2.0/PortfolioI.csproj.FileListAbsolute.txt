@@ -1,0 +1,11 @@
+C:\Users\Drew\Csharp_Stack\PortfolioI\bin\Debug\netcoreapp2.0\PortfolioI.deps.json
+C:\Users\Drew\Csharp_Stack\PortfolioI\bin\Debug\netcoreapp2.0\PortfolioI.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\PortfolioI\bin\Debug\netcoreapp2.0\PortfolioI.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\PortfolioI\bin\Debug\netcoreapp2.0\PortfolioI.dll
+C:\Users\Drew\Csharp_Stack\PortfolioI\bin\Debug\netcoreapp2.0\PortfolioI.pdb
+C:\Users\Drew\Csharp_Stack\PortfolioI\obj\Debug\netcoreapp2.0\PortfolioI.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Csharp_Stack\PortfolioI\obj\Debug\netcoreapp2.0\PortfolioI.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\PortfolioI\obj\Debug\netcoreapp2.0\PortfolioI.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\PortfolioI\obj\Debug\netcoreapp2.0\PortfolioI.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\PortfolioI\obj\Debug\netcoreapp2.0\PortfolioI.dll
+C:\Users\Drew\Csharp_Stack\PortfolioI\obj\Debug\netcoreapp2.0\PortfolioI.pdb
