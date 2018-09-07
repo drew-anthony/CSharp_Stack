@@ -1,0 +1,10 @@
+C:\Users\Drew\Csharp_Stack\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.deps.json
+C:\Users\Drew\Csharp_Stack\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.dll
+C:\Users\Drew\Csharp_Stack\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.pdb
+C:\Users\Drew\Csharp_Stack\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.dll
+C:\Users\Drew\Csharp_Stack\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.pdb
