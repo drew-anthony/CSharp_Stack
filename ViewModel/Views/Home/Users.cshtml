@@ -1,0 +1,16 @@
+﻿<div class="users">
+    <a href="/">Messages</a>
+    <a href="/users">Users</a>
+    <a href="/numbers">Numbers</a>
+    <a href="/user">User</a>
+    <h1>Here are some Users!</h1>    
+    <p>
+    @{
+        foreach(var i in @Model){
+            <p>@i.FirstName @i.LastName</p>
+        }
+    }
+    </p>
+    
+
+</div>
