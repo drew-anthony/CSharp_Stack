@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/bin/Debug/netcoreapp2.0/NinjaSamuraiWizard.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/bin/Debug/netcoreapp2.0/NinjaSamuraiWizard.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/bin/Debug/netcoreapp2.0/NinjaSamuraiWizard.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/bin/Debug/netcoreapp2.0/NinjaSamuraiWizard.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/bin/Debug/netcoreapp2.0/NinjaSamuraiWizard.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/obj/Debug/netcoreapp2.0/NinjaSamuraiWizard.csprojResolveAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/obj/Debug/netcoreapp2.0/NinjaSamuraiWizard.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/obj/Debug/netcoreapp2.0/NinjaSamuraiWizard.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/obj/Debug/netcoreapp2.0/NinjaSamuraiWizard.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/obj/Debug/netcoreapp2.0/NinjaSamuraiWizard.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/NinjaSamuraiWizard/obj/Debug/netcoreapp2.0/NinjaSamuraiWizard.pdb
