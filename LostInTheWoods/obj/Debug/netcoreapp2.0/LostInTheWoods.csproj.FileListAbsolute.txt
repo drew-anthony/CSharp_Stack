@@ -1,0 +1,11 @@
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\bin\Debug\netcoreapp2.0\LostInTheWoods.deps.json
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\bin\Debug\netcoreapp2.0\LostInTheWoods.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\bin\Debug\netcoreapp2.0\LostInTheWoods.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\bin\Debug\netcoreapp2.0\LostInTheWoods.dll
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\bin\Debug\netcoreapp2.0\LostInTheWoods.pdb
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\obj\Debug\netcoreapp2.0\LostInTheWoods.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\obj\Debug\netcoreapp2.0\LostInTheWoods.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\obj\Debug\netcoreapp2.0\LostInTheWoods.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\obj\Debug\netcoreapp2.0\LostInTheWoods.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\obj\Debug\netcoreapp2.0\LostInTheWoods.dll
+C:\Users\Drew\Csharp_Stack\LostInTheWoods\obj\Debug\netcoreapp2.0\LostInTheWoods.pdb

@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>New Trail</title>
+</head>
+<body>
+    @model Trail
+    <h1><u>Add A New Trail</u></h1>
+    <form action="Create" method="POST">
+        <div class="form-row">
+            <div class="form-group col-md-12">
+            <label for="trailName">Trail Name: </label>
+            <input type="text" class="form-control" id="trailName" asp-for="Name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="description">Description: </label>
+            <textarea class="form-control" id="description" rows="3" asp-for="Description"></textarea>
+        </div>
+        <div class="form-group col-md-8">
+            <label for="trailLength">Trail Length: </label>
+            <input type="text" class="form-control" id="trailLength" asp-for="Length">
+        </div>
+        <div class="form-group col-md-8">
+            <label for="elevationChange">Elevation Change: </label>
+            <input type="text" class="form-control" id="elevationChange" asp-for="Elevation">
+        </div>
+        <div class="form-group">
+            <div class="form-group col-md-6">
+                <label for="Longitude">Longitude</label>
+                <input type="text" class="form-control" id="Longitude" asp-for="Longitude">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="Longitude">Latitude</label>
+                <input type="text" class="form-control" id="Latitude" asp-for="Latitude">
+            </div>
+        </div>
+        <button type="submit" class="btn btn-outline-dark">Create Record!</button>
+    </form>
+</body>
+</html>
