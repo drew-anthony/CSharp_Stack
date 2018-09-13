@@ -1,0 +1,11 @@
+C:\Users\Drew\Csharp_Stack\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.deps.json
+C:\Users\Drew\Csharp_Stack\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.dll
+C:\Users\Drew\Csharp_Stack\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.pdb
+C:\Users\Drew\Csharp_Stack\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Csharp_Stack\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.dll
+C:\Users\Drew\Csharp_Stack\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.pdb
