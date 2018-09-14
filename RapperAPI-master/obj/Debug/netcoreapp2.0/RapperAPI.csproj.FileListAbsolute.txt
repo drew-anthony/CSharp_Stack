@@ -1,0 +1,11 @@
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\bin\Debug\netcoreapp2.0\RapperAPI.deps.json
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\bin\Debug\netcoreapp2.0\RapperAPI.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\bin\Debug\netcoreapp2.0\RapperAPI.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\bin\Debug\netcoreapp2.0\RapperAPI.dll
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\bin\Debug\netcoreapp2.0\RapperAPI.pdb
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\obj\Debug\netcoreapp2.0\RapperAPI.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\obj\Debug\netcoreapp2.0\RapperAPI.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\obj\Debug\netcoreapp2.0\RapperAPI.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\obj\Debug\netcoreapp2.0\RapperAPI.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\obj\Debug\netcoreapp2.0\RapperAPI.dll
+C:\Users\Drew\Csharp_Stack\RapperAPI-master\obj\Debug\netcoreapp2.0\RapperAPI.pdb
