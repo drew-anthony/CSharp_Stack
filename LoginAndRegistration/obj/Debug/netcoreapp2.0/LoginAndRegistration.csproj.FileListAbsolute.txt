@@ -1,0 +1,11 @@
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\bin\Debug\netcoreapp2.0\LoginAndRegistration.deps.json
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\bin\Debug\netcoreapp2.0\LoginAndRegistration.runtimeconfig.json
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\bin\Debug\netcoreapp2.0\LoginAndRegistration.runtimeconfig.dev.json
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\bin\Debug\netcoreapp2.0\LoginAndRegistration.dll
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\bin\Debug\netcoreapp2.0\LoginAndRegistration.pdb
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\obj\Debug\netcoreapp2.0\LoginAndRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\obj\Debug\netcoreapp2.0\LoginAndRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\obj\Debug\netcoreapp2.0\LoginAndRegistration.AssemblyInfoInputs.cache
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\obj\Debug\netcoreapp2.0\LoginAndRegistration.AssemblyInfo.cs
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\obj\Debug\netcoreapp2.0\LoginAndRegistration.dll
+C:\Users\Drew\Csharp_Stack\LoginAndRegistration\obj\Debug\netcoreapp2.0\LoginAndRegistration.pdb
