@@ -1,10 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System;
  
 namespace LoginAndRegistration.Models
 {
-    public class Registration
+    public class User
     {
         [Key]
         public long UserId { get; set; }
@@ -26,7 +27,6 @@ namespace LoginAndRegistration.Models
 
         [Required]
         [MinLength(5)]
-        [DataType(DataType.Password)]
         public string Password { get; set; }
 
         [Required]

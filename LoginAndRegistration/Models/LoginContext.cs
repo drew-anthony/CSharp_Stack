@@ -6,6 +6,6 @@ namespace LoginAndRegistration.Models
     {
         // base() calls the parent class' constructor passing the "options" parameter along
         public LoginContext(DbContextOptions<LoginContext> options) : base(options) { }
-        public DbSet<Registration> Users { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

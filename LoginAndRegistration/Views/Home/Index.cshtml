@@ -1,10 +1,13 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@model User 
+<!-- class name -->
 <!------ Include the above in your HEAD tag ---------->
  <div class="jumbotron">
  <!---heading---->
      <header class="heading"> Registration</header><hr>
+	 <form class="form" asp-action="Register" asp-controller="Home" method="post">
 	<!---Form starting----> 
 	<div class="row ">
 	 <!--- For Name---->
@@ -14,7 +17,7 @@
           	         <label class="firstname">First Name :</label> </div>
 		         <div class="col-xs-8">
 					 <span asp-validation-for="FirstName"></span>
-		             <input asp-for="FirstName" type="text" name="FirstName" id="fname" placeholder="Enter your First Name" class="form-control ">
+		             <input asp-for="FirstName" type="text" id="fname" placeholder="Enter your First Name" class="form-control ">
              </div>
 		      </div>
 		 </div>
@@ -26,7 +29,7 @@
                      <label class="lastname">Last Name :</label></div>
 				<div class ="col-xs-8">
 					 <span asp-validation-for="LastName"></span>	 
-		             <input asp-for="Last_Name" type="text" name="LastName" id="lname" placeholder="Enter your Last Name" class="form-control last">
+		             <input asp-for="LastName" type="text" id="lname" placeholder="Enter your Last Name" class="form-control last">
                 </div>
 		     </div>
 		 </div>
@@ -37,7 +40,7 @@
 		             <label class="mail" >Email :</label></div>
 			     <div class="col-xs-8"	>
 					<span asp-validation-for="Email"></span> 
-			        <input asp-for="Email" type="email" name="Email"  id="email" placeholder="Enter your email" class="form-control" >
+			        <input asp-for="Email" type="email"  id="email" placeholder="Enter your email" class="form-control" >
 		         </div>
 		     </div>
 		 </div>
@@ -48,7 +51,7 @@
 		 	              <label class="pass">Password :</label></div>
 				  <div class="col-xs-8">
 						<span asp-validation-for="Password"></span>
-			        	<input asp-for="Password" type="password" name="password" id="password" placeholder="Enter your Password" class="form-control">
+			        	<input asp-for="Password" type="password"  id="password" placeholder="Enter your Password" class="form-control">
 				 </div>
           </div>
 		  </div>
@@ -59,7 +62,7 @@
 		 	              <label class="pass">Confirm Password :</label></div>
 				  <div class="col-xs-8">
 						<span asp-validation-for="Confirm"></span>
-			        	<input asp-for="Confirm" type="password" name="Confirm" id="Confirm" placeholder="Confirm your Password" class="form-control">
+			        	<input asp-for="Confirm" type="password"  id="Confirm" placeholder="Confirm your Password" class="form-control">
 				 </div>
           </div>
 		  </div>
@@ -67,37 +70,10 @@
      <!-----------For Phone number-------->
          <div class="col-sm-12">
 		     <div class="col-sm-12">
-		         <div class="btn btn-warning">Submit</div>
+		         <button type="submit" class="btn btn-warning">Submit</button>
+				 <a href="/login/user">Already a user? Click to Login</a>
 		   </div>
 		 </div>
-	 </div>	 		 		 
-</div>
-
-<div class="jumbotron">
-    <header class="heading"> Login</header><hr>
-    <form>
-        <div class="col-sm-12">
-		     <div class="row">
-			     <div class="col-xs-4">
-		             <label class="mail" >Email :</label></div>
-			     <div class="col-xs-8"	>	 
-			          <input type="email" name="email"  id="email"placeholder="Enter your email" class="form-control" >
-		         </div>
-		     </div>
-		 </div>
-        <div class="col-sm-12">
-		         <div class="row">
-				     <div class="col-xs-4">
-		 	              <label class="pass">Password :</label></div>
-				  <div class="col-xs-8">
-			             <input type="password" name="password" id="password" placeholder="Enter your Password" class="form-control">
-				 </div>
-          </div>
-          <div class="col-sm-12">
-		     <div class="col-sm-12">
-		         <div class="btn btn-success">Login</div>
-		   </div>
-		 </div>
-		  </div>
-    </form>
+	 </form>	 		 		 
+	 </div>
 </div>
