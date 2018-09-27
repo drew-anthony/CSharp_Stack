@@ -1,0 +1,10 @@
+/Users/LilyBeth/Desktop/C#/linkedlists/obj/Debug/netcoreapp2.0/linkedlists.csproj.CoreCompileInputs.cache
+/Users/LilyBeth/Desktop/C#/linkedlists/obj/Debug/netcoreapp2.0/linkedlists.AssemblyInfoInputs.cache
+/Users/LilyBeth/Desktop/C#/linkedlists/obj/Debug/netcoreapp2.0/linkedlists.AssemblyInfo.cs
+/Users/LilyBeth/Desktop/C#/linkedlists/bin/Debug/netcoreapp2.0/linkedlists.deps.json
+/Users/LilyBeth/Desktop/C#/linkedlists/bin/Debug/netcoreapp2.0/linkedlists.runtimeconfig.json
+/Users/LilyBeth/Desktop/C#/linkedlists/bin/Debug/netcoreapp2.0/linkedlists.runtimeconfig.dev.json
+/Users/LilyBeth/Desktop/C#/linkedlists/bin/Debug/netcoreapp2.0/linkedlists.dll
+/Users/LilyBeth/Desktop/C#/linkedlists/bin/Debug/netcoreapp2.0/linkedlists.pdb
+/Users/LilyBeth/Desktop/C#/linkedlists/obj/Debug/netcoreapp2.0/linkedlists.dll
+/Users/LilyBeth/Desktop/C#/linkedlists/obj/Debug/netcoreapp2.0/linkedlists.pdb
